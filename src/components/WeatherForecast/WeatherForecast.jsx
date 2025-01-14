@@ -1,4 +1,4 @@
-import "./WeatherForecast.css";
+import "./WeatherForecast.css"
 import WeatherData from "../WeatherData/WeatherData";
 import WeatherIcon from "../WeatherIcon/WeatherIcon";
 const WeatherForecast = ({ weatherData }) => {
